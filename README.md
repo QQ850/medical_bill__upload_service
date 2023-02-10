@@ -18,7 +18,7 @@ Two endpoints, and both of them accept and return JSON.
 #### Files
     index.js            --> HTTP responses to each request 
     package.json        --> be able to run the API
-    bills.json   --> list of array objects example as a json 
+    bills.json          --> Example of a list of array objects
 #### Generated URL 
     http://localhost:3000/items
 ## Run the assignment on Postman 
