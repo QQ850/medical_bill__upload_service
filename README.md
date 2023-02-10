@@ -37,7 +37,7 @@ Two endpoints, and both of them accept and return JSON.
     * Select "**POST**" method, and typr the same URL as above, and choose "Body" and "raw" to create a JSON object. After than, click "send"
      
          ** NOTE: The raw JSON example can be found from **bills.json** file  
-        ![image](https://user-images.githubusercontent.com/73051094/218188177-d0bb41b0-f3d2-46ea-a0dc-9d21c9a03329.png)
+        ![image](https://user-images.githubusercontent.com/73051094/218203805-f50365dc-d003-49b0-bb27-3d7bb0fd939b.png)
 
     
     * In order to check if the **POST** request has been reponsed correctly, select "GET" mehod to send a "GET" request again to see any changes. 
