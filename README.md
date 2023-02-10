@@ -19,4 +19,5 @@ Two endpoints, and both of them accept and return JSON.
     index.js            --> HTTP responses to each request 
     package.json        --> be able to run the API
     medical_bill.json   --> list of array objects example as a json 
-## 
+## Run the assignment on Postman 
+
