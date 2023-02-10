@@ -6,6 +6,10 @@ This is a simple medical bills upload service using
 
 **Framework**: Express 
 
+**Software tool**: Visual Studio Code
+
+**API testing tool**: Postman
+
 ## Endpoints
 Two endpoints, and both of them accept and return JSON.
 ### Items
