@@ -41,6 +41,7 @@ app.get('/items', (req, res) => {
 
 
 // Called for POST request to http://localhost:3000/items
+//push the new object to array 
 app.post('/items', (req, res) => {
     //create a new object 
     //and push it to the array --> items
@@ -52,7 +53,7 @@ app.post('/items', (req, res) => {
                       bill_amount: req.body.bill_amount
                     }; 
     items.push(newItem); 
-    res.send(newItem);
+    res.end();
 });
 
 //port 3000
