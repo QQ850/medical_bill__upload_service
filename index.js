@@ -2,7 +2,7 @@
 const express = require('express');
 const app = express();
 
-//create an empty array objects
+//create an initial array objects
 let items = [
   {
     "id": 1,
