@@ -16,9 +16,10 @@ Two endpoints, and both of them accept and return JSON.
     GET /items: returns a list of medical bills
     POST /items: creates a new medical bill
 #### Files
-    index.js            --> HTTP responses to each request 
-    package.json        --> be able to run the API
-    bills.json          --> Example of a list of array objects
+    index.js                    --> HTTP responses to each request 
+    package.json                --> be able to run the API
+    bills.json                  --> Example of a list of array objects
+    Testing.postman_collection  --> API testing files exported from Postman
 #### Generated URL 
     http://localhost:3000/items
 ## Run the assignment on Postman 
