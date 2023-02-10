@@ -29,17 +29,20 @@ Two endpoints, and both of them accept and return JSON.
      To do this, follow these steps:
                     
     * Select "**GET**" method from dropdown list, and type the URL "http://localhost:3000/items", then click "Send" --> below is the result on Postman
-![image](https://user-images.githubusercontent.com/73051094/218036793-531b44a5-306b-44eb-a1e8-56591a749d77.png)
+![image](https://user-images.githubusercontent.com/73051094/218188066-5e5d2ef3-331b-4da7-a757-137f23271c3e.png)
+
 
     
     * Select "**POST**" method, and typr the same URL as above, and choose "Body" and "raw" to create a JSON object. After than, click "send"
      
          ** NOTE: The raw JSON example can be found from **bills.json** file  
-         ![image](https://user-images.githubusercontent.com/73051094/218038032-3a03f67f-1b0d-4da9-bba9-ef17ec58737b.png)
+        ![image](https://user-images.githubusercontent.com/73051094/218188177-d0bb41b0-f3d2-46ea-a0dc-9d21c9a03329.png)
+
     
-    * In order to check if the **POST** request has been reponsed correctly, select "GET" mehod to send a "GEt" request again to see any changes. 
+    * In order to check if the **POST** request has been reponsed correctly, select "GET" mehod to send a "GET" request again to see any changes. 
      
-     ![image](https://user-images.githubusercontent.com/73051094/218038522-bb7d1dff-09b9-4294-a4e0-d817901f5b80.png)
+     ![image](https://user-images.githubusercontent.com/73051094/218188251-81da763b-7f8f-4f22-b23b-128a2b3a5da1.png)
+
      
      * After all the testing, back to VSC terminal, type "Ctrl + C" to kill the API running
 
