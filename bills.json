@@ -1,0 +1,16 @@
+[  
+    {
+       "Name": "Ford",
+       "Address": "WA",
+       "Hospital_Name": "UrgentCare",
+       "date_of_service": "02/09/2023",
+       "Bill_Amount": 100
+    }, 
+    {
+       "Name": "Tesla",
+       "Address": "NK",
+       "Hospital_Name": "UW Medicine",
+       "date_of_service": "02/09/2020",
+       "Bill_Amount": 10
+    }
+ ]
