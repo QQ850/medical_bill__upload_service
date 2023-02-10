@@ -41,5 +41,5 @@ Two endpoints, and both of them accept and return JSON.
      
      ![image](https://user-images.githubusercontent.com/73051094/218038522-bb7d1dff-09b9-4294-a4e0-d817901f5b80.png)
 
-
-
+### Examine result
+After done with the API tesing the actual result is the expected result. 
