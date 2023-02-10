@@ -1,0 +1,20 @@
+{
+  "name": "assessment",
+  "version": "1.0.0",
+  "description": "this is json for the simple medical bills upload service",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QQ850/medical_bill_upload_service.git"
+  },
+  "author": "qiqihu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QQ850/medical_bill_upload_service/issues"
+  },
+  "homepage": "https://github.com/QQ850/medical_bill_upload_service#readme"
+}
